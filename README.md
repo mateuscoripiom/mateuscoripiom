@@ -3,7 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-coripio)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1705701797)
 
-![Coripio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscoripiom&show_icons=true&theme=tokyonight)
+![Coripio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscoripiom&show_icons=true&theme=tokyonight)<br>
+![Coripio's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscoripiom&theme=blue-green)
 
 ### Tecnologias que eu uso
 <div style="display: inline_block">
