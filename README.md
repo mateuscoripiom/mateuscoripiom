@@ -1,49 +1,62 @@
-### Olá, eu sou o Mateus! 👋
+<div align="center">
+
+# Mateus Coripio
+
+**🇧🇷 Dev fullstack — infra self-hosted, streaming, automação.**
+**🇬🇧 Fullstack developer — self-hosted infra, streaming, automation.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-coripio)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1705701797)
 
-![Coripio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscoripiom&show_icons=true&theme=tokyonight)<br>
-![Coripio's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscoripiom&theme=blue-green)
-
-### Tecnologias que eu uso
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
 
-### Linguagens e competências
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+---
+
+## 🇧🇷 Sobre
+
+Construo produtos completos, do código à infraestrutura: backend, frontend, banco de dados, deploy e manutenção em servidor Linux — sem depender de PaaS pronto. Meus projetos pessoais são plataformas reais que rodam em produção 24/7, não só demos.
+
+**O que eu já construí:**
+- 🎬 **Plataforma de streaming self-hosted** — Node.js/Express + React, HLS com bitrate adaptativo, integração com servidor de mídia (Emby) e armazenamento em nuvem montado via rclone. *(código privado — case study disponível sob pedido)*
+- 📱 **Apps mobile em Flutter** — apps de colecionador com scan e visualização de objetos em 3D.
+- 🎮 **Jogo em Godot** — recriação de mecânica de jogo rítmico com física e beatmaps próprios.
+- 🛠️ **Automação de infraestrutura** — VPS Linux, nginx, PM2, monitoramento e scripts que resolvem problema de verdade (ex: script que avisa por e-mail quando capacidade de servidor gratuito abre na nuvem).
+
+Curioso por natureza — gosto de entender a causa raiz de um bug até o fim antes de aplicar qualquer fix, e uso IA como parte real do meu fluxo de desenvolvimento (não só autocomplete).
+
+**Disponível para freelance** — self-hosting, automação, integrações de API, aplicações fullstack.
+
+---
+
+## 🇬🇧 About
+
+I build complete products end-to-end: backend, frontend, database, deployment and maintenance on a Linux server — no reliance on managed PaaS. My personal projects are real platforms running in production 24/7, not just demos.
+
+**What I've built:**
+- 🎬 **Self-hosted streaming platform** — Node.js/Express + React, adaptive-bitrate HLS, integrated with a media server (Emby) and cloud storage mounted via rclone. *(private codebase — case study available on request)*
+- 📱 **Flutter mobile apps** — collector apps with object scanning and 3D viewing.
+- 🎮 **Godot game** — rebuilt a rhythm-game engine with custom physics and beatmaps.
+- 🛠️ **Infrastructure automation** — Linux VPS, nginx, PM2, monitoring, and scripts that solve real problems (e.g. one that emails me when free cloud server capacity opens up).
+
+Naturally curious — I chase a bug down to its actual root cause before shipping a fix, and I use AI as a real part of my development workflow, not just autocomplete.
+
+**Open to freelance work** — self-hosting, automation, API integrations, fullstack applications.
+
+---
+
+<div align="center">
+
+### Stack
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+
+![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscoripiom&show_icons=true&theme=tokyonight&hide=stars)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscoripiom&theme=tokyonight&layout=compact)
+
 </div>
-
-### Programas e ferramentas
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-</div>
-<!--
-**mateuscoripiom/mateuscoripiom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
