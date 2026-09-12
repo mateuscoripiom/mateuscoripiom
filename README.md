@@ -19,6 +19,7 @@ São Paulo, Brasil. Construo produtos inteiros — backend, frontend, banco, ser
 - 🎬 Uma plataforma de streaming self-hosted no ar 24/7 — Node/React, HLS adaptativo, Emby, armazenamento em nuvem montado via rclone. *(privado — pergunte sobre)*
 - 📱 Apps Flutter pra colecionadores, com escaneamento de objetos e visualização 3D
 - 🎮 Um motor de jogo rítmico recriado no Godot — física e beatmaps próprios
+- 🤖 Claude Code no fluxo de dev de verdade — não só autocomplete, é parte de como eu debugo e ship
 - 🌱 Aprendendo a construir e cobrar por SaaS de verdade, ponta a ponta
 
 &nbsp;
@@ -33,6 +34,7 @@ São Paulo, Brasil. Construo produtos inteiros — backend, frontend, banco, ser
 ![Godot](https://img.shields.io/badge/-Godot-1e293b?style=flat-square&logo=godotengine&logoColor=478CBF)
 ![Linux](https://img.shields.io/badge/-Linux-1e293b?style=flat-square&logo=linux&logoColor=FCC624)
 ![NGINX](https://img.shields.io/badge/-NGINX-1e293b?style=flat-square&logo=nginx&logoColor=009639)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-1e293b?style=flat-square&logo=claude&logoColor=D97757)
 
 </div>
 
